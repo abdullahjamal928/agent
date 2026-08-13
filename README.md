@@ -44,8 +44,6 @@ Any problems, please do contact me.
 
 ### Super useful resources
 
-- The course [resources](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/) with videos
-- Many essential guides in the [guides](guides/01_intro.ipynb) section
 - My [Avatar](https://edwarddonner.com/avatar) that can answer all common questions
 
 ### API costs - please read me!
