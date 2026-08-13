@@ -26,8 +26,8 @@ This has fully refreshed content with the latest tools, models and techniques. A
 
 ### Before you begin
 
-I'm here to help you be most successful! Please do reach out if I can help, either in the platform or by emailing me direct (ed@edwarddonner.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
-https://www.linkedin.com/in/eddonner/  
+I'm here to help you be most successful! Please do reach out if I can help, either in the platform or by emailing me direct (abdullahjamal928@gmail.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
+https://www.linkedin.com/in/abdullah-jamal-aj/ 
 
 And my YouTube channel has many supplemental videos to add to the course; you'll find it here:  
 https://youtube.com/@edward.donner
@@ -58,4 +58,4 @@ Be sure to monitor your API costs to ensure you are totally happy with any spend
 
 ### ABOVE ALL ELSE -
 
-Be sure to have fun with the course! You could not have picked a better time to be learning about Agentic AI. I hope you enjoy every single minute! And if you get stuck at any point - [contact me](https://www.linkedin.com/in/eddonner/).# agent
+Be sure to have fun with the course! You could not have picked a better time to be learning about Agentic AI. I hope you enjoy every single minute! And if you get stuck at any point - [contact me](https://www.linkedin.com/in/abdullah-jamal-aj/).# agent
